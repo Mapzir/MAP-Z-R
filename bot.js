@@ -5,12 +5,12 @@ Issues
 Marketplace
 Explore
  
-@richusir 
-richusir
+@map zir
+map zir
 /
-RICHUSER_B1
+MAP Z!R
 Public
-forked from richusir/RICHUSER_B1
+forked from map zit/MAP Z!R
 0
 1121
 Code
@@ -21,8 +21,8 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
+MAP Z!R/bot.js /
+@map zir
 richusir Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
